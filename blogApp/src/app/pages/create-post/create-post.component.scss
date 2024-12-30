@@ -1,0 +1,21 @@
+.center-card{
+    max-width: 600px;
+    margin: auto;
+    margin-top: 10px;
+    padding: 30px;
+}
+
+mat-form-field{
+    width: 100%;
+    margin-bottom: 16px;
+}
+
+.create-button {
+    display: block;
+    margin: 20px auto 0;
+}
+
+mat-error {
+    color: red;
+    font-size: 12px;
+}
